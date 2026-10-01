@@ -1,0 +1,13 @@
+1 ) open cmd
+
+2) type cd and hft engine folder path
+	C:\Users\Nihal\Desktop\infotact\hft engine
+
+3) type py -m streamlit run dashboard.py
+
+4) browser opens automatically
+
+5) if not then open browser
+	type http://localhost:8501
+OR
+	type http://127.0.0.1:8501
